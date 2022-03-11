@@ -1,0 +1,62 @@
+#container {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#container strong {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+#container p {
+    font-size: 16px;
+    line-height: 22px;
+    color: #8c8c8c;
+    margin: 0;
+}
+
+#container a {
+    text-decoration: none;
+}
+
+#header {
+    font-size: 30px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: fit-content;
+}
+
+#navigation {
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+#searchBar {
+    border: solid black 1px;
+    border-radius: 10px;
+    margin-left: 60px;
+    width: 250px;
+    display: inline-block;
+}
+
+.navi-button {
+    margin-right: 30px;
+}
+
+#calendar-table {
+    border: 1px solid white;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
